@@ -1,4 +1,4 @@
-# Create flowchart and pseudocode for the following:
+# :book:Create flowchart and pseudocode for the following:
 - :heavy_check_mark: Input a year and find whether it is a leap year or not.
 - :x: Take two numbers and print the sum of both.
 - :x: Take a number as input and print the multiplication table for it.
