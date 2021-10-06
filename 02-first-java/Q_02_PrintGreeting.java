@@ -1,5 +1,3 @@
-package com.firstJava;
-
 import java.util.Scanner;
 
 public class Q_02_PrintGreeting {
