@@ -1,4 +1,4 @@
-# 📖 Write Java programs for the following:
+# 📖 Write Java programs (using functions) for the following:
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
